@@ -2,7 +2,7 @@
 
 Hello! This is short overview of how i integrated OpenID Connect (OIDC) with AWS Cognito, configured authentication rules for different user groups for a Fintech Company from India.
 
-## Projects and Experience
+## Projects
 
 ### 1. OIDC Integration with AWS Cognito
 
